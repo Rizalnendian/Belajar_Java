@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01 - Instalasi Java/01 - Instalasi Java.iml" filepath="$PROJECT_DIR$/01 - Instalasi Java/01 - Instalasi Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04 - Memahami Struktur Program/04 - Memahami Struktur Program.iml" filepath="$PROJECT_DIR$/04 - Memahami Struktur Program/04 - Memahami Struktur Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 - Organisasi Program dengan Package/05 - Organisasi Program dengan Package.iml" filepath="$PROJECT_DIR$/05 - Organisasi Program dengan Package/05 - Organisasi Program dengan Package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 - Pengenalan Print dan Alur Eksekusi/06 - Pengenalan Print dan Alur Eksekusi.iml" filepath="$PROJECT_DIR$/06 - Pengenalan Print dan Alur Eksekusi/06 - Pengenalan Print dan Alur Eksekusi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 - Memahami String args/07 - Memahami String args.iml" filepath="$PROJECT_DIR$/07 - Memahami String args/07 - Memahami String args.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08 - Variabel - Assignment dan Deklarasi/08 - Variabel - Assignment dan Deklarasi.iml" filepath="$PROJECT_DIR$/08 - Variabel - Assignment dan Deklarasi/08 - Variabel - Assignment dan Deklarasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 - Tipe data fundamental atau Primitive/09 - Tipe data fundamental atau Primitive.iml" filepath="$PROJECT_DIR$/09 - Tipe data fundamental atau Primitive/09 - Tipe data fundamental atau Primitive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 - Operator Aritmatika/10 - Operator Aritmatika.iml" filepath="$PROJECT_DIR$/10 - Operator Aritmatika/10 - Operator Aritmatika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11 - Konversi tipe data numeric/11 - Konversi tipe data numeric.iml" filepath="$PROJECT_DIR$/11 - Konversi tipe data numeric/11 - Konversi tipe data numeric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12 - Operator Unary - Decrement dan Increment/12 - Operator Unary - Decrement dan Increment.iml" filepath="$PROJECT_DIR$/12 - Operator Unary - Decrement dan Increment/12 - Operator Unary - Decrement dan Increment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13 - Operator Assignments/13 - Operator Assignments.iml" filepath="$PROJECT_DIR$/13 - Operator Assignments/13 - Operator Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14 - Operator Komparasi/14 - Operator Komparasi.iml" filepath="$PROJECT_DIR$/14 - Operator Komparasi/14 - Operator Komparasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15 - Operator Logika/15 - Operator Logika.iml" filepath="$PROJECT_DIR$/15 - Operator Logika/15 - Operator Logika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16 - Operator Bitwise/16 - Operator Bitwise.iml" filepath="$PROJECT_DIR$/16 - Operator Bitwise/16 - Operator Bitwise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17 - Mengambil user input Scanner dan latihan aritmatika/17 - Mengambil user input Scanner dan latihan aritmatika.iml" filepath="$PROJECT_DIR$/17 - Mengambil user input Scanner dan latihan aritmatika/17 - Mengambil user input Scanner dan latihan aritmatika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18 - Pengelompokan operasi aritmatika/18 - Pengelompokan operasi aritmatika.iml" filepath="$PROJECT_DIR$/18 - Pengelompokan operasi aritmatika/18 - Pengelompokan operasi aritmatika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19 - Latihan Operator Logika/19 - Latihan Operator Logika.iml" filepath="$PROJECT_DIR$/19 - Latihan Operator Logika/19 - Latihan Operator Logika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20 - If Else Statement/20 - If Else Statement.iml" filepath="$PROJECT_DIR$/20 - If Else Statement/20 - If Else Statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21 - IF Else IF statement/21 - IF Else IF statement.iml" filepath="$PROJECT_DIR$/21 - IF Else IF statement/21 - IF Else IF statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22 - IF Bersarang or nested IF/22 - IF Bersarang or nested IF.iml" filepath="$PROJECT_DIR$/22 - IF Bersarang or nested IF/22 - IF Bersarang or nested IF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23 - Switch Case/23 - Switch Case.iml" filepath="$PROJECT_DIR$/23 - Switch Case/23 - Switch Case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24 - Ternary Operator/24 - Ternary Operator.iml" filepath="$PROJECT_DIR$/24 - Ternary Operator/24 - Ternary Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25 - Latihan Kalkulator if else/25 - Latihan Kalkulator if else.iml" filepath="$PROJECT_DIR$/25 - Latihan Kalkulator if else/25 - Latihan Kalkulator if else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26 - Latihan Kalkulator Switch Case/26 - Latihan Kalkulator Switch Case.iml" filepath="$PROJECT_DIR$/26 - Latihan Kalkulator Switch Case/26 - Latihan Kalkulator Switch Case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27 - While Loop/27 - While Loop.iml" filepath="$PROJECT_DIR$/27 - While Loop/27 - While Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28 - Do While Loop/28 - Do While Loop.iml" filepath="$PROJECT_DIR$/28 - Do While Loop/28 - Do While Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29 - For Loop/29 - For Loop.iml" filepath="$PROJECT_DIR$/29 - For Loop/29 - For Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30 - Latihan Looping Sederhana/30 - Latihan Looping Sederhana.iml" filepath="$PROJECT_DIR$/30 - Latihan Looping Sederhana/30 - Latihan Looping Sederhana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30 - Latihan Looping Sederhana dengan do while/30 - Latihan Looping Sederhana dengan do while.iml" filepath="$PROJECT_DIR$/30 - Latihan Looping Sederhana dengan do while/30 - Latihan Looping Sederhana dengan do while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30 - Latihan Looping Sederhana menggunakan while loop/30 - Latihan Looping Sederhana menggunakan while loop.iml" filepath="$PROJECT_DIR$/30 - Latihan Looping Sederhana menggunakan while loop/30 - Latihan Looping Sederhana menggunakan while loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31 - Latihan Looping deret Fibonacci/31 - Latihan Looping deret Fibonacci.iml" filepath="$PROJECT_DIR$/31 - Latihan Looping deret Fibonacci/31 - Latihan Looping deret Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31 - Latihan Looping deret Fibonacci dengan do while/31 - Latihan Looping deret Fibonacci dengan do while.iml" filepath="$PROJECT_DIR$/31 - Latihan Looping deret Fibonacci dengan do while/31 - Latihan Looping deret Fibonacci dengan do while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31 - Latihan Looping deret Fibonacci dengan while/31 - Latihan Looping deret Fibonacci dengan while.iml" filepath="$PROJECT_DIR$/31 - Latihan Looping deret Fibonacci dengan while/31 - Latihan Looping deret Fibonacci dengan while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32 - Break-Continue-dan-Return_Control Flow/32 - Break-Continue-dan-Return_Control Flow.iml" filepath="$PROJECT_DIR$/32 - Break-Continue-dan-Return_Control Flow/32 - Break-Continue-dan-Return_Control Flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/33 - Looping Bersarang Kotak dan Segitiga/33 - Looping Bersarang Kotak dan Segitiga.iml" filepath="$PROJECT_DIR$/33 - Looping Bersarang Kotak dan Segitiga/33 - Looping Bersarang Kotak dan Segitiga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34 - Pengenalan Fungsi atau Method/34 - Pengenalan Fungsi atau Method.iml" filepath="$PROJECT_DIR$/34 - Pengenalan Fungsi atau Method/34 - Pengenalan Fungsi atau Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/35 - Fungsi atau Method void/35 - Fungsi atau Method void.iml" filepath="$PROJECT_DIR$/35 - Fungsi atau Method void/35 - Fungsi atau Method void.iml" />
+      <module fileurl="file://$PROJECT_DIR$/36 - Latihan Fungsi_ menghitung dan menggambar/36 - Latihan Fungsi_ menghitung dan menggambar.iml" filepath="$PROJECT_DIR$/36 - Latihan Fungsi_ menghitung dan menggambar/36 - Latihan Fungsi_ menghitung dan menggambar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/37 - Fungsi Rekursif/37 - Fungsi Rekursif.iml" filepath="$PROJECT_DIR$/37 - Fungsi Rekursif/37 - Fungsi Rekursif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/38 - Rekursif Bercabang/38 - Rekursif Bercabang.iml" filepath="$PROJECT_DIR$/38 - Rekursif Bercabang/38 - Rekursif Bercabang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/39 - Overload Method_Fungsi/39 - Overload Method_Fungsi.iml" filepath="$PROJECT_DIR$/39 - Overload Method_Fungsi/39 - Overload Method_Fungsi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Belajar Java.iml" filepath="$PROJECT_DIR$/.idea/Belajar Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program Jumlah saluran komunikasi/Program Jumlah saluran komunikasi.iml" filepath="$PROJECT_DIR$/Program Jumlah saluran komunikasi/Program Jumlah saluran komunikasi.iml" />
+    </modules>
+  </component>
+</project>
